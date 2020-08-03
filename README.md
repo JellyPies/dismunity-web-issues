@@ -1,6 +1,6 @@
-# Xtra Issue Tracker
+# Dismunity Issue Tracker
 
-This is the public issue tracker for reporting bugs, issues and suggestions related to the **Xtra Bot - stable**. Please fill in the appropriate template to make sure your feature or bug report is properly understood.
+This is the public issue tracker for reporting bugs, issues and suggestions related to the **Dismunity Website**. Please fill in the appropriate template to make sure your feature or bug report is properly understood.
 
 ### Reporting Bugs
 
